@@ -1,0 +1,4 @@
+vehicle,capacity_t,status,synthetic
+Truck 01,1000,available,true
+Truck 02,800,available,true
+Truck 03,700,maintenance,true

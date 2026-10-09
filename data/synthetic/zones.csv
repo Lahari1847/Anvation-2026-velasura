@@ -1,0 +1,6 @@
+zone,latitude,longitude,demand_t_day,collected_t_day,recovery_rate,synthetic
+Central,12.9716,77.5946,420,370,0.36,true
+North,13.0358,77.5970,510,410,0.31,true
+East,12.9850,77.6500,460,395,0.42,true
+South,12.9000,77.5800,380,350,0.39,true
+West,12.9800,77.5300,330,290,0.34,true

@@ -1,0 +1,3 @@
+# Security notes
+
+Passwords are PBKDF2-HMAC-SHA256 hashed with per-user random salts and 240,000 iterations. API access checks roles and citizen ownership server-side. Demo bearer tokens are user IDs and are intentionally only suitable for a localhost demonstration; replace with signed, expiring sessions, rate limiting, HTTPS, CSRF protections, and managed secrets before deployment. Uploads and complaint evidence are not implemented in this demo, so no unvalidated upload endpoint exists. Account management and audit UI are also a limited demo surface. Seed credentials are public and must never be reused.

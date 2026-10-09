@@ -1,0 +1,6 @@
+date,zone,generated_t,collected_t,synthetic
+2026-10-01,Central,420,370,true
+2026-10-01,North,510,410,true
+2026-10-01,East,460,395,true
+2026-10-01,South,380,350,true
+2026-10-01,West,330,290,true
